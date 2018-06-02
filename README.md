@@ -6,3 +6,5 @@ npm start
 
 Build package
 npm run build
+
+You must have a CodeBreaker backend server running in port 3000
